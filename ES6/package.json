@@ -1,0 +1,12 @@
+{
+    "name": "es6-student-management",
+    "version": "1.0.0",
+    "description": "ES6 Student Management Assignment",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "boostrap": "^2.0.0"
+    }
+}
